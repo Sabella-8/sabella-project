@@ -1,0 +1,121 @@
+/* <style> */
+/* fallbacks two words should have qoute */
+body{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-image:linear-gradient(#deb591, rgb(148, 148, 191));
+/* background: blanchedalmond; */
+margin-left: 5%;
+font-size: 20px;
+padding: 2%;
+}
+h1{
+    font-size: 2em;
+}
+h2{
+    font-size: 1.5em;
+}
+h3{
+    font-size: 1.2em;
+}
+#prah{
+background: #deb591;
+/* font-family: 'comic snas MS'; */
+font-family: 'Courier New', Courier, monospace;
+border: 2px solid black;
+border-radius: 10px;
+font-size: 1.3em;
+padding: 20px;
+margin: 10PX;
+}
+.pra{
+background: rgb(181, 131, 38);
+
+}
+#firstdiv{
+
+background: #F5CBA7;
+}
+img{
+   padding-left:260px;
+   text-align: center;
+}
+#seconddiv{
+color:aqua;
+background: rgba(62, 76, 99, 0);
+color: black;
+border: 10px solid #FBC8BD ;
+border-radius: 20PX;
+padding: 10PX;
+}
+h1{
+font-size: 50px;
+text-align: center;
+background: #d2a278;
+}
+h2, h3{
+color:rgb(41, 19, 19);
+text-align: center;
+}
+#lastdiv{
+background: burlywood;
+}
+.pagsec{
+    background: blanchedalmond;
+}
+#menu{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+    background-color: #d2a278;
+}
+li{
+    float:right;
+    border-left: 2px solid white;
+}
+li a{
+    display: block;
+    color: aliceblue;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: black;
+}
+.active{
+    background: darkseagreen;
+}
+.container{
+    background-color: #deb591;
+    padding: 20px;
+    padding-top: 5px;
+    margin: 10px;
+    
+}
+#imageRight{
+    float: right;
+    padding: 10px;
+    border:2px solid white;
+}
+#imageLeft{
+    float: left;
+    padding: 10px;
+    border:2px solid white;
+}
+.flex-container{
+    background: rgb(138, 129, 129);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding:10px ;
+    margin-left:5%;
+    margin-right:5%;
+    justify-content: space-around;
+    
+}
+.image{
+    padding: 10px;
+border:2 px solid black;
+background: rgb(138, 129, 129);
+}
